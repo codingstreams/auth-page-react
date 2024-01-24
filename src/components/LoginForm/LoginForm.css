@@ -4,6 +4,7 @@
   border-radius: 1em;
   padding: 1.5em 1.2em;
   margin: 1em;
+  max-width: 360px;
 }
 
 .login-form input {
